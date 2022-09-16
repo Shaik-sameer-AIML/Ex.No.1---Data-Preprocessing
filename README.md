@@ -33,6 +33,7 @@ Splitting the data into test and train
 
 ##PROGRAM:
 NAME : Shaik sameer
+
 Ref no.: 2122212400051
 ```
 import pandas as pd
@@ -67,6 +68,8 @@ print(df1)
 ![2](https://user-images.githubusercontent.com/93427186/190550568-b655f363-5c42-4ac5-9e76-0670a8820528.PNG)
 
 ![3](https://user-images.githubusercontent.com/93427186/190550582-34d09f10-57fc-4294-81cc-cf12176ee896.PNG)
+
+
 ![4](https://user-images.githubusercontent.com/93427186/190550599-535356b5-9b8c-43f1-b70b-06f41e289b89.PNG)
 
 
